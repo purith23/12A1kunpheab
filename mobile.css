@@ -1,0 +1,102 @@
+/* for s20 ultra */
+@media(min-width: 411px) and (max-width: 413px){
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(./img/newbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.navbar{
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+}
+#logotag{
+    display: flex;
+    padding: 10px;
+    gap: 20px;
+}
+#logotag img{
+    width: 70px;
+}
+#logotag h1{
+    font-size: 30px;
+    margin-top: 20px;
+}
+#atag{
+    display: flex;
+    gap: 30px;
+    margin-left: 18px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+}
+#atag a{
+    color: black;
+    font-size: 15px;
+    text-decoration: none;
+    font-weight: bold;
+}
+#atag a:hover{
+    text-decoration: underline;
+    box-shadow: 0 0 10px black;
+}
+.bgteam img{
+    border-radius: 5px;
+    padding-left: 1px;
+    width: 370px;
+}
+.bgteam button{
+    position: absolute;
+    border: none;
+    margin-left: 105px;
+    margin-top: 160px;
+    background-color: white;
+    box-shadow: 0 0 10px black;
+    width: 200px;
+    height: 60px;
+    font-size: 20px;
+    border-radius: 20px;
+    color: rgb(0, 0, 0);
+}
+.bgteam button:hover{
+    box-shadow: 0 0 20px white;
+    background-color: black;
+    color: white;
+    transition: .5s;
+}
+
+
+
+
+
+/*footer*/
+.foot{
+    flex-wrap: wrap;
+    background-color: white;
+    padding: 5px;
+}
+#footlogo img{
+    width: 0;
+}
+#h1logo{
+    font-size: 15px;
+    margin-left: 90px;
+    margin-top: 10px;
+}
+#subp p{
+    font-size: 15px;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    margin-left: 80px;
+}
+#copyright{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+}
