@@ -187,8 +187,63 @@ body{
 }
 
 
-
-
+/*member page*/
+.welmh1{
+    font-size: 50px;
+    color: rgb(255, 255, 255);
+    margin-top: 120px;
+    margin-bottom: 30px;
+    margin-left: 450px;
+}
+.teamld{
+    width: fit-content;
+    padding: 10px;
+    margin-left: 450px;
+    margin-bottom: 40px;
+    background-color: white;
+}
+.teamld img{
+    width: 600px;
+}
+.memb001{
+    display: flex;
+    gap: 60px;
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#mem001 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem001 h1{
+    color: white;
+    margin-left: 40px;
+}
+#mem002 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem002 h1{
+    color: white;
+    margin-left: 40px;
+}
+#mem003 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem003 h1{
+    color: white;
+    margin-left: 40px;
+}
+#mem004 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem004 h1{
+    color: white;
+    margin-left: 40px;
+}
 
 
 

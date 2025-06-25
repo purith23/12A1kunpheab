@@ -189,6 +189,63 @@ body{
 
 
 
+.welmh1{
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    margin-top: 40px;
+    margin-bottom: 30px;
+    margin-left: 90px;
+}
+.teamld{
+    width: fit-content;
+    padding: 10px;
+    margin-left: 40px;
+    margin-bottom: 40px;
+    background-color: white;
+}
+.teamld img{
+    width: 300px;
+}
+.memb001{
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-left: 50px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+#mem001 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem001 h1{
+    color: white;
+    margin-left: 40px;
+}
+#mem002 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem002 h1{
+    color: white;
+    margin-left: 40px;
+}
+#mem003 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem003 h1{
+    color: white;
+    margin-left: 40px;
+}
+#mem004 img{
+    width: 300px;
+    box-shadow: 0 0 20px black;
+}
+#mem004 h1{
+    color: white;
+    margin-left: 40px;
+}
+
 
 
 
