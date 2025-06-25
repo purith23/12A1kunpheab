@@ -1059,7 +1059,7 @@ body{
 }
 #atag a{
     color: black;
-    font-size: 16px;
+    font-size: 12px;
     text-decoration: none;
     font-weight: bold;
 }
@@ -1070,13 +1070,13 @@ body{
 .bgteam img{
     border-radius: 5px;
     padding-left: 1px;
-    margin-left: 5px;
+    margin-left: 20px;
     margin-top: 20px;
     margin-bottom: 10px;
-    width: 400px;
+    width: 370px;
 }
 .welh1{
-    font-size: 14px;
+    font-size: 13px;
     color: white;
     margin-top: 10px;
     margin-left: 20px;
@@ -1330,17 +1330,17 @@ body{
 }
 #h1logo{
     font-size: 15px;
-    margin-left: 90px;
+    margin-left: 70px;
     margin-top: 10px;
 }
 #subp p{
     font-size: 15px;
     margin-top: 15px;
     margin-bottom: 20px;
-    margin-left: 80px;
+    margin-left: 60px;
 }
 #copyright{
-    margin-left: 80px;
+    margin-left: 60px;
     margin-top: 10px;
 }
 }
