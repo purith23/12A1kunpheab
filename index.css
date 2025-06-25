@@ -40,11 +40,21 @@ body{
     text-decoration: underline;
     box-shadow: 0 0 10px black;
 }
+
+.welh1{
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    margin-top: 120px;
+    margin-bottom: 5px;
+    margin-left: 250px;
+}
 .bgteam img{
     border-radius:15px;
-    padding-left: 60px;
-    margin: 20px;
     width: 1400px;
+    padding-right: 40px;
+    margin-bottom: 90px;
+    margin-top: 90px;
+    margin-left: 80px;
 }
 .bgteam button{
     position: absolute;
@@ -64,6 +74,121 @@ body{
     box-shadow: 0 0 20px white;
     transition: .5s;
 }
+.pich1{
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+    margin-left: 350px;
+}
+.desc{
+    background-color: rgb(255, 255, 255);
+    display: flex;
+    gap: 20px;
+    padding-left: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.desc img{
+    box-shadow: 0 0 10px black;
+    border-radius: 10px;
+    width: 200px;
+    margin: 20px;
+}
+.desc h1{
+    margin-top: 140px;
+    font-size: 20px;
+}
+#statusn{
+    background-color: rgb(189, 189, 189);
+    display: flex;
+    justify-content: space-between;
+    margin-left: 80px;
+    margin-right: 80px;
+    padding-left: 50px;
+    padding-right: 290px;
+}
+
+.bannerbg{
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    margin-bottom: 40px;
+}
+.bghighlight{
+    margin-left: 300px;
+    margin-bottom: 40px;
+}
+.bghighlight img{
+    width: 900px;
+}
+.bghighlight button{
+    background-color: white;
+    margin-top: 300px;
+    margin-left: 300px;
+    border: none;
+    font-size: 30px;
+    width: 350px;
+    height: 60px;
+    border-radius: 20px;
+    position: absolute;
+}
+.bghighlight button:hover{
+    background-color: black;
+    color: white;
+}
+
+
+
+
+
+/*Highlight page*/
+.welhh1{
+    font-size: 40px;
+    color: rgb(255, 255, 255);
+    margin-top: 120px;
+    margin-bottom: 30px;
+    margin-left: 350px;
+}
+.highpic001{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.highpic001 img{
+    width: 350px;
+    height: 330px;
+}
+.highpic002{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.highpic002 img{
+    width: 350px;
+    height: 330px;
+}
+.highpic003{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.highpic003 img{
+    width: 350px;
+    height: 330px;
+}
+.highpic004{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.highpic004 img{
+    width: 350px;
+    height: 330px;
+}
+
+
+
+
 
 
 
